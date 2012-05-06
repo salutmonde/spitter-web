@@ -5,5 +5,5 @@
 *.war
 *.ear
 spitter-web.iml
-spitter.web.ipr
+spitter-web.ipr
 spitter-web.iws
